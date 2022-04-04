@@ -1,0 +1,43 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/TP_FINAL.dir/Bateria.cpp.obj"
+  "CMakeFiles/TP_FINAL.dir/Bateria.cpp.obj.d"
+  "CMakeFiles/TP_FINAL.dir/Central.cpp.obj"
+  "CMakeFiles/TP_FINAL.dir/Central.cpp.obj.d"
+  "CMakeFiles/TP_FINAL.dir/Edificio.cpp.obj"
+  "CMakeFiles/TP_FINAL.dir/Edificio.cpp.obj.d"
+  "CMakeFiles/TP_FINAL.dir/EdificioX.cpp.obj"
+  "CMakeFiles/TP_FINAL.dir/EdificioX.cpp.obj.d"
+  "CMakeFiles/TP_FINAL.dir/Fundicao.cpp.obj"
+  "CMakeFiles/TP_FINAL.dir/Fundicao.cpp.obj.d"
+  "CMakeFiles/TP_FINAL.dir/Ilha.cpp.obj"
+  "CMakeFiles/TP_FINAL.dir/Ilha.cpp.obj.d"
+  "CMakeFiles/TP_FINAL.dir/Lenhador.cpp.obj"
+  "CMakeFiles/TP_FINAL.dir/Lenhador.cpp.obj.d"
+  "CMakeFiles/TP_FINAL.dir/MinaCarvao.cpp.obj"
+  "CMakeFiles/TP_FINAL.dir/MinaCarvao.cpp.obj.d"
+  "CMakeFiles/TP_FINAL.dir/MinaFerro.cpp.obj"
+  "CMakeFiles/TP_FINAL.dir/MinaFerro.cpp.obj.d"
+  "CMakeFiles/TP_FINAL.dir/Mineiro.cpp.obj"
+  "CMakeFiles/TP_FINAL.dir/Mineiro.cpp.obj.d"
+  "CMakeFiles/TP_FINAL.dir/Operario.cpp.obj"
+  "CMakeFiles/TP_FINAL.dir/Operario.cpp.obj.d"
+  "CMakeFiles/TP_FINAL.dir/Save.cpp.obj"
+  "CMakeFiles/TP_FINAL.dir/Save.cpp.obj.d"
+  "CMakeFiles/TP_FINAL.dir/Trabalhador.cpp.obj"
+  "CMakeFiles/TP_FINAL.dir/Trabalhador.cpp.obj.d"
+  "CMakeFiles/TP_FINAL.dir/UI.cpp.obj"
+  "CMakeFiles/TP_FINAL.dir/UI.cpp.obj.d"
+  "CMakeFiles/TP_FINAL.dir/Zona.cpp.obj"
+  "CMakeFiles/TP_FINAL.dir/Zona.cpp.obj.d"
+  "CMakeFiles/TP_FINAL.dir/main.cpp.obj"
+  "CMakeFiles/TP_FINAL.dir/main.cpp.obj.d"
+  "TP_FINAL.exe"
+  "TP_FINAL.exe.manifest"
+  "TP_FINAL.pdb"
+  "libTP_FINAL.dll.a"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/TP_FINAL.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
