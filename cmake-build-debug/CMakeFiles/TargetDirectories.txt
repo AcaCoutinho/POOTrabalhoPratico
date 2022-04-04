@@ -1,3 +1,0 @@
-C:/POO/TP-FINAL/cmake-build-debug/CMakeFiles/TP_FINAL.dir
-C:/POO/TP-FINAL/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/POO/TP-FINAL/cmake-build-debug/CMakeFiles/rebuild_cache.dir
